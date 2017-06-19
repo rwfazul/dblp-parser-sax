@@ -3,7 +3,7 @@
 
 ### USE:
 
-Donwload **dblp-2016-10-01.dtd** and **dblp-2016-11-02.xml** from http://dblp.org/xml/release/.
+Donwload **dblp-2016-10-01.dtd** and **dblp-2016-11-02.xml** from http://dblp.org/xml/release/
 
 More info: http://dblp.uni-trier.de/faq/
 
