@@ -18,8 +18,8 @@ public class TesteParser {
         String tagBusca = "title";
         
         System.setProperty("entityExpansionLimit", "10000000");
-        String xmlPath = "/home/rhau/Desktop/dblp-2016-11-02.xml";
-        String txtPath = "/home/rhau/Desktop/articleTitles.txt"; 
+        String xmlPath = "~/Desktop/dblp-2016-11-02.xml";
+        String txtPath = "~/Desktop/articleTitles.txt"; 
   
         ParserXmlSax mydevSAX = new ParserXmlSax(tipoBuscado, tagBusca, txtPath);
         mydevSAX.fazerParsing(xmlPath);
